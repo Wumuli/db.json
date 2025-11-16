@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Как создать клон YouTube за 5 минут",
+      "author": "WebDev Pro",
+      "views": 125000,
+      "date": "2023-05-13",
+      "likes": 1250,
+      "comments": 42,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "В этом видео я покажу, как создать клон YouTube с нуля всего за 5 минут."
+    }
+  ],
+  "comments": {},
+  "logs": [],
+  "users": [
+    {"username": "admin", "password": "admin127865403"},
+    {"username": "user", "password": "user123"}
+  ],
+  "banned": []
+}
