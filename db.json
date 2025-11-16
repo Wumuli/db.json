@@ -2,21 +2,73 @@
   "videos": [
     {
       "id": 1,
-      "title": "Как создать клон YouTube за 5 минут",
-      "author": "WebDev Pro",
-      "views": 125000,
-      "date": "2023-05-13",
-      "likes": 1250,
-      "comments": 42,
+      "title": "Добро пожаловать на 31Tube!",
+      "author": "Администратор",
+      "views": 1500,
+      "date": "2024-01-15",
+      "likes": 42,
+      "comments": 5,
       "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      "description": "В этом видео я покажу, как создать клон YouTube с нуля всего за 5 минут."
+      "description": "Первое видео на нашей платформе. Присоединяйтесь к сообществу!"
+    },
+    {
+      "id": 2,
+      "title": "Как пользоваться 31Tube",
+      "author": "Администратор", 
+      "views": 800,
+      "date": "2024-01-16",
+      "likes": 25,
+      "comments": 3,
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Обзор функций и возможностей платформы"
     }
   ],
-  "comments": {},
-  "logs": [],
+  "comments": {
+    "1": [
+      {
+        "author": "User123",
+        "text": "Отличная платформа!",
+        "time": "2024-01-15 14:30:00"
+      },
+      {
+        "author": "TestUser", 
+        "text": "Жду новых функций!",
+        "time": "2024-01-15 16:45:00"
+      }
+    ],
+    "2": [
+      {
+        "author": "NewUser",
+        "text": "Очень понятное руководство!",
+        "time": "2024-01-16 10:20:00"
+      }
+    ]
+  },
+  "logs": [
+    {
+      "type": "video",
+      "author": "Администратор",
+      "time": "2024-01-15 10:00:00", 
+      "details": "Опубликовал видео 'Добро пожаловать на 31Tube!'"
+    },
+    {
+      "type": "video",
+      "author": "Администратор",
+      "time": "2024-01-16 09:30:00",
+      "details": "Опубликовал видео 'Как пользоваться 31Tube'"
+    }
+  ],
   "users": [
-    {"username": "admin", "password": "admin127865403"},
-    {"username": "user", "password": "user123"}
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2, 
+      "username": "user",
+      "password": "user123"
+    }
   ],
   "banned": []
 }
